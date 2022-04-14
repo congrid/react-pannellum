@@ -1,6 +1,6 @@
 {
-  "name": "react-pannellum",
-  "version": "0.2.7",
+  "name": "@congrid/react-pannellum",
+  "version": "0.2.8-rc.1",
   "description": "A library show panorama image for react",
   "author": "hoaiduyit",
   "license": "MIT",
